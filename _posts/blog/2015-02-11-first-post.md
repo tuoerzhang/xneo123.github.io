@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: my first post
 ---
 ##我的天啊，你终于显出来了
