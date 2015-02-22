@@ -4,6 +4,7 @@ title：新员工入职日报生成器
 category: project
 description: 欢姐的需求，也是蛮有用的，据欢姐说，哇咔咔。
 ---
+
 # New Employee Daily Report Generate Based on outlook.application
 
 This VBscript for AA to generate daily report. 
