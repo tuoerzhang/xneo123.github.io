@@ -4,7 +4,6 @@ title: DreamWorksQTPAddIn For Sublime
 category: project
 description: 一个Sublime的小插件，为我们Dreamworks Team做的，用起来也是蛮方便的啦`(*∩_∩*)′
 ---
-
 ## QTP Add In package for Sublime Text adapt to DreamWorks Framework
 This QTP Add In package for [Sublime Text](http://www.sublimetext.com/) adds:
 - VBscripts syntax highlighting
