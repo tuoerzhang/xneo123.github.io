@@ -55,4 +55,4 @@ Go to directory which you want to generate report and clone the repository using
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `outlookOperation`
+* Unzip the files and rename the folder to outlookOperation
