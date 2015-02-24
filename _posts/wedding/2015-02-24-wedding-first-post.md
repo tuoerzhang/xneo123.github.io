@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my first post
-category: blog
+category: wedding
 description: 我的wedding第一篇博客，Hello World
 ---
 ##我的天啊，你终于显出来了
