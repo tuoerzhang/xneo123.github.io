@@ -10,7 +10,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
 body,button,input,select,textarea{font-size:12px/1.5;}
 input,select,textarea{font-size:100%;}
 table{font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;border-collapse:collapse;text-align:left;border-spacing:0;width:100%;}
-th{font-size:1.1em;text-align:center;padding-top:5px;padding-bottom:4px;background-color:#00BC1D;color:#ffffff;}
+th{font-size:1.1em;padding-top:5px;padding-bottom:4px;background-color:#00BC1D;color:#ffffff;}
 td{font-size:1em;border:1px solid #00BC1D;padding:3px 7px 2px 7px;}
 fieldset,img,a img{border:0;}
 iframe{display:block;}
