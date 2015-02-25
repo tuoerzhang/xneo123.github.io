@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: wedding
 title: 结婚计划时间表
 category: wedding
 description: 结婚计划时间表
@@ -13,3 +13,5 @@ description: 结婚计划时间表
 |办席|TBD|TBD |
 
 
+
+## 结婚日期调查
