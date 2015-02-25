@@ -1,6 +1,6 @@
 ---
 layout: wedding
-title: 结婚计划时间表
+title: 谢一丁&石辉亚结婚计划
 category: wedding
 description: 结婚计划时间表
 ---
