@@ -2,7 +2,7 @@
 layout: wedding
 title: 谢一丁&石辉亚结婚计划
 category: wedding
-description: 结婚计划时间表
+description: 谢一丁&石辉亚结婚计划
 ---
 ##结婚时间表
 
