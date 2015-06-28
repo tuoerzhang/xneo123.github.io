@@ -1,13 +1,13 @@
 ---
 layout: post
-title: my first post
+title: 超酷BGM
 category: blog
 description: 电音music
 ---
-超酷BGM 
+
 
 ###我的天啊，终于明白为什么有的BGM这么好听了
-#谢谢Alan Walker还有7ubo
+##谢谢Alan Walker还有7ubo
 
 ##Alan Walker
 
